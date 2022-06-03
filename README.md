@@ -1,5 +1,8 @@
 ### Hi there, 👋 
 ### This is Hamid Moghul
+[![Linkedin: Hamid Moghul](https://img.shields.io/badge/-HamidMoghul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/HamidMoghul/)](https://www.linkedin.com/in/mp98/)
+
+
 --------------------------------------------------------------------------
 Thank you for visiting my Github page. 
 
@@ -12,3 +15,4 @@ Thank you for visiting my Github page.
 HamidMoghul/HamidMoghul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
