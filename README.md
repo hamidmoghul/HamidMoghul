@@ -1,15 +1,33 @@
 ### Hi there, 👋 
-### This is Hamid Moghul
-[![Linkedin: Hamid Moghul](https://img.shields.io/badge/-HamidMoghul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/HamidMoghul/)](https://www.linkedin.com/in/mp98/)
-
-
+#### This is Hamid Moghul 
+  
 --------------------------------------------------------------------------
 Thank you for visiting my Github page. 
 
-- 👀 I am curious how information could be stored in numbers. Statistics and data science help me understand  and explore.
-- 🌱 I’m currently learning data science at BloomTech Institute of Technology. I did an Ms. in Biostatistics at NYMC(2019).
-- 💞️ I’m looking forward to work as a data scientist and or Biostatistician. 
-- 📫 LinkedIn: https://www.linkedin.com/in/hamid-moghul-872665a5/
+🤔 I am curious and interested in learning and doing Predictive Analytics Techniques. 
+ 
+#### Interest:
+- Statistical Modelling
+- Neural Network 
+- Machine Learning
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+<p align="left">
+  
+  
+![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/python.png) ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/tensorflow.svg)
+
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+
+[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+
+-------------------------------------------------------------
+##### Let's connect: 
+[![Linkedin: Hamid Moghul](https://img.shields.io/badge/-HamidMoghul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/HamidMoghul/)](https://www.linkedin.com/in/hamid-moghul-872665a5/)
+[![Stackoverflow](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/19019271/zapa)
+
 
 <!---
 HamidMoghul/HamidMoghul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
