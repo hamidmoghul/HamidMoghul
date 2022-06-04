@@ -6,15 +6,15 @@
 Thank you for visiting!
 
 
-🤔 I am curious and interested in Predictive Analytics Techniques:
+🤔 I am curious and interested in Predictive Analytics Techniques: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+<p align="left">
  
 - Statistical Modelling
 - Neural Network 
 - Machine Learning
 - Natural Language Processing
 - Autoencoding
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
-<p align="left">
+
   
   
 
