@@ -5,7 +5,7 @@
 
 Thank you for visiting my GitHub page!
 
-- I am currently studying Data Science at BloomTech Institute of Technology<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+- I am almost done with a Data Science bootcamp at BloomTech Institute of Technology<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 <p align="left">
 🤔 I am curious about Predictive Analytics Techniques: 
  
