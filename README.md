@@ -5,9 +5,9 @@
 
 Thank you for visiting my GitHub page!
 
-
-🤔 I am curious and interested in Predictive Analytics Techniques: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+- I am currently studying Data Science at BloomTech Institute of Technology. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 <p align="left">
+🤔 I am curious and very interested in Predictive Analytics Techniques: 
  
 - Statistical Modelling
 - Neural Network 
