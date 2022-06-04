@@ -17,7 +17,7 @@ Thank you for visiting!
 <p align="left">
   
   
-![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/python.png) ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/tensorflow.svg)
+
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square)
