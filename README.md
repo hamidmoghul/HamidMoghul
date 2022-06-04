@@ -3,7 +3,7 @@
 
 
 
-Thank you for visiting!
+Thank you for visiting my GitHub page!
 
 
 🤔 I am curious and interested in Predictive Analytics Techniques: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
