@@ -1,15 +1,18 @@
 ### Hi there, 👋 
 #### This is Hamid Moghul 
-  
---------------------------------------------------------------------------
-Thank you for visiting my Github page. 
 
-🤔 I am curious and interested in learning and doing Predictive Analytics Techniques. 
+
+
+Thank you for visiting!
+
+
+🤔 I am curious and interested in Predictive Analytics Techniques:
  
-#### Interest:
 - Statistical Modelling
 - Neural Network 
 - Machine Learning
+- Natural Language Processing
+- Autoencoding
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 <p align="left">
   
@@ -19,7 +22,6 @@ Thank you for visiting my Github page.
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
